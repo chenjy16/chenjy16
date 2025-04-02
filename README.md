@@ -3,7 +3,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/chenjy16)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 _「构建可靠、可扩展的系统，让技术为业务创造价值。」_  
 _"Building reliable, scalable systems that create business value through technology."_
