@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/chenjy16)
-
 _「构建可靠、可扩展的系统，让技术为业务创造价值。」_  
 _"Building reliable, scalable systems that create business value through technology."_
 
@@ -83,8 +81,3 @@ I am a passionate software architect specializing in cloud-native technologies, 
 
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-181717?style=flat-square&logo=github)](https://github.com/chenjy16)
-
-</div>
