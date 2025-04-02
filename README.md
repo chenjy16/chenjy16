@@ -16,18 +16,12 @@ I am a passionate software architect specializing in cloud-native technologies, 
 
 ### 💻 编程语言 | Programming Languages
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-
 - ☕ Java技术栈，拥有扎实的编码实践  
   Java technology stack with solid coding practices
 - <img src="https://golang.org/doc/gopher/frontpage.png" width="15"> Golang技术栈，包括Gin、Gorm、Grpc-go和Motan-go等框架  
   Golang technology stack, including frameworks such as Gin, Gorm, Grpc-go, and Motan-go
 
 ### 🔄 中间件 | Middleware
-
-[![Dubbo](https://img.shields.io/badge/-Dubbo-FF7A00?style=flat-square&logoColor=white)](https://dubbo.apache.org/)
-[![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?style=flat-square&logoColor=white)](https://rocketmq.apache.org/)
 
 - 🔍 熟悉多种中间件源码，如Dubbo、RocketMQ和Sharding-sphere  
   Familiar with various middleware source code, such as Dubbo, RocketMQ, and Sharding-sphere
@@ -60,8 +54,6 @@ I am a passionate software architect specializing in cloud-native technologies, 
 
 ### 🔄 DevOps & 工具链 | DevOps & Toolchain
 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argoproj.github.io/argo-cd/)
 
 - 🔄 GitOps技术栈（Gitlab/ArgoCD等）  
   GitOps technology stack (Gitlab/ArgoCD, etc.)
@@ -70,14 +62,8 @@ I am a passionate software architect specializing in cloud-native technologies, 
 
 ### 📊 系统可观测性 | System Observability
 
-[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
-
 - 🏗️ 基础设施即代码(IaC)  
   Infrastructure as Code (IaC)
 - 💰 FinOps（云资源分析与成本优化）  
   FinOps (Cloud resource analysis and cost optimization)
-
-
----
 
