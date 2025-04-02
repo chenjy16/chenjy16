@@ -81,15 +81,6 @@ I am a passionate software architect specializing in cloud-native technologies, 
 - 💰 FinOps（云资源分析与成本优化）  
   FinOps (Cloud resource analysis and cost optimization)
 
-## 🌱 学习路线图 | Learning Roadmap
-
-- 🔍 深入研究服务网格技术 | Diving deeper into service mesh technologies
-- 🧠 探索AI/ML在云原生系统中的应用 | Exploring AI/ML applications in cloud-native systems
-- 🔒 加强云安全实践 | Strengthening cloud security practices
-
-## 📫 联系我 | Contact Me
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
