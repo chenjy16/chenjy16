@@ -113,7 +113,7 @@
 ### 🔄 DevOps & 工具链 | DevOps & Toolchain
 
 <details>
-  <summary>DevOps</summary>
+  <summary>开发自运维</summary>
 
 - 🔄 GitOps技术栈（Gitlab/ArgoCD等）  
 - 🛠️ 从零搭建CICD平台的实践经验  
