@@ -7,14 +7,14 @@
 ## 🚀 关于我 | About Me
 
 <details>
-  <summary>中文简介</summary>
+  <summary>简介</summary>
   
   我是一名充满热情的软件架构师，专注于云原生技术、分布式系统设计和DevOps实践。  
 
 </details>
 
 <details>
-  <summary>English Introduction</summary>
+  <summary>Introduction</summary>
 
   I am a passionate software architect specializing in cloud-native technologies, distributed system design, and DevOps practices.
 
@@ -23,7 +23,7 @@
 ## 🛠️ 技术栈 | Tech Stack
 
 <details>
-  <summary>中文技术栈</summary>
+  <summary>技术栈</summary>
 
 ### 💻 编程语言 | Programming Languages
 
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary>English Tech Stack</summary>
+  <summary>Tech Stack</summary>
 
 ### 💻 Programming Languages
 
@@ -53,7 +53,7 @@
 ### ☁️ 云原生 | Cloud Native
 
 <details>
-  <summary>中文云原生</summary>
+  <summary>云原生</summary>
 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-  <summary>English Cloud Native</summary>
+  <summary>Cloud Native</summary>
 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -87,7 +87,7 @@
 ### 🌐 分布式系统 | Distributed Systems
 
 <details>
-  <summary>中文分布式系统</summary>
+  <summary>分布式系统</summary>
 
 - 🏗️ 分布式系统架构设计  
 
@@ -101,7 +101,7 @@
 </details>
 
 <details>
-  <summary>English Distributed Systems</summary>
+  <summary>Distributed Systems</summary>
 
 - 🏗️ Distributed system architecture design
 - 🔄 Database horizontal scaling
@@ -113,7 +113,7 @@
 ### 🔄 DevOps & 工具链 | DevOps & Toolchain
 
 <details>
-  <summary>中文 DevOps</summary>
+  <summary>DevOps</summary>
 
 - 🔄 GitOps技术栈（Gitlab/ArgoCD等）  
 - 🛠️ 从零搭建CICD平台的实践经验  
@@ -122,30 +122,13 @@
 </details>
 
 <details>
-  <summary>English DevOps</summary>
+  <summary>DevOps</summary>
 
 - 🔄 GitOps technology stack (Gitlab/ArgoCD, etc.)
 - 🛠️ Experience in building CICD platforms from scratch
 
 </details>
 
-### 📊 系统可观测性 | System Observability
-
-<details>
-  <summary>中文系统可观测性</summary>
-
-- 🏗️ 基础设施即代码(IaC)  
-- 💰 FinOps（云资源分析与成本优化）  
-
-</details>
-
-<details>
-  <summary>English System Observability</summary>
-
-- 🏗️ Infrastructure as Code (IaC)
-- 💰 FinOps (Cloud resource analysis and cost optimization)
-
-</details>
 
 ---
 
