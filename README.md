@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=900&lines=Building+reliable%2C+scalable+systems+that+create+business+value+through+technology." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=1200&lines=Building+reliable%2C+scalable+systems+that+create+business+value+through+technology." />
 
 </div>
+
 
 
 ## 🚀 关于我 | About Me
