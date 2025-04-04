@@ -10,7 +10,6 @@
   <summary>中文简介</summary>
   
   我是一名充满热情的软件架构师，专注于云原生技术、分布式系统设计和DevOps实践。  
-  I am a passionate software architect specializing in cloud-native technologies, distributed system design, and DevOps practices.
 
 </details>
 
@@ -29,14 +28,11 @@
 ### 💻 编程语言 | Programming Languages
 
 - ☕ Java技术栈，拥有扎实的编码实践  
-  Java technology stack with solid coding practices
 - <img src="https://golang.org/doc/gopher/frontpage.png" width="15"> Golang技术栈，包括Gin、Gorm、Grpc-go和Motan-go等框架  
-  Golang technology stack, including frameworks such as Gin, Gorm, Grpc-go, and Motan-go
 
 ### 🔄 中间件 | Middleware
 
 - 🔍 熟悉多种中间件源码，如Dubbo、RocketMQ和Sharding-sphere  
-  Familiar with various middleware source code, such as Dubbo, RocketMQ, and Sharding-sphere
 
 </details>
 
@@ -53,6 +49,105 @@
 - 🔍 Familiar with various middleware source code, such as Dubbo, RocketMQ, and Sharding-sphere
 
 </details>
+
+### ☁️ 云原生 | Cloud Native
+
+<details>
+  <summary>中文云原生</summary>
+
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
+- 🌟 丰富的云原生架构实践经验  
+- 🔧 基于Kubernetes的高可用、高性能和弹性云原生系统实现  
+  - 📦 资源定义 
+  - 🔍 服务发现
+  - ⚙️ 配置中心
+  - 📊 可观测性
+  - 📈 扩展性等
+
+</details>
+
+<details>
+  <summary>English Cloud Native</summary>
+
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
+- 🌟 Rich experience in cloud-native architecture practices
+- 🔧 Implementation of highly available, high-performance, and elastic cloud-native systems based on Kubernetes
+  - 📦 Resource definition
+  - 🔍 Service discovery
+  - ⚙️ Configuration center
+  - 📊 Observability
+  - 📈 Scalability, etc.
+
+</details>
+
+### 🌐 分布式系统 | Distributed Systems
+
+<details>
+  <summary>中文分布式系统</summary>
+
+- 🏗️ 分布式系统架构设计  
+
+- 🔄 数据库水平扩展  
+
+- 🔄 分布式事务  
+
+- 🌍 全球化部署  
+
+
+</details>
+
+<details>
+  <summary>English Distributed Systems</summary>
+
+- 🏗️ Distributed system architecture design
+- 🔄 Database horizontal scaling
+- 🔄 Distributed transactions
+- 🌍 Global deployment
+
+</details>
+
+### 🔄 DevOps & 工具链 | DevOps & Toolchain
+
+<details>
+  <summary>中文 DevOps</summary>
+
+- 🔄 GitOps技术栈（Gitlab/ArgoCD等）  
+- 🛠️ 从零搭建CICD平台的实践经验  
+
+
+</details>
+
+<details>
+  <summary>English DevOps</summary>
+
+- 🔄 GitOps technology stack (Gitlab/ArgoCD, etc.)
+- 🛠️ Experience in building CICD platforms from scratch
+
+</details>
+
+### 📊 系统可观测性 | System Observability
+
+<details>
+  <summary>中文系统可观测性</summary>
+
+- 🏗️ 基础设施即代码(IaC)  
+- 💰 FinOps（云资源分析与成本优化）  
+
+</details>
+
+<details>
+  <summary>English System Observability</summary>
+
+- 🏗️ Infrastructure as Code (IaC)
+- 💰 FinOps (Cloud resource analysis and cost optimization)
+
+</details>
+
+---
 
 ### 📈 我的 GitHub 技术语言统计
 
