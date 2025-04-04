@@ -2,10 +2,10 @@
 
 <div align="center">
 
-_「构建可靠、可扩展的系统，让技术为业务创造价值。」_  
-_"Building reliable, scalable systems that create business value through technology."_
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=900&lines=Building+reliable%2C+scalable+systems+that+create+business+value+through+technology." />
 
 </div>
+
 
 ## 🚀 关于我 | About Me
 
