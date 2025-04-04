@@ -50,7 +50,6 @@
 
 </details>
 
-### ☁️ 云原生 | Cloud Native
 
 <details>
   <summary>云原生</summary>
@@ -84,7 +83,7 @@
 
 </details>
 
-### 🌐 分布式系统 | Distributed Systems
+
 
 <details>
   <summary>分布式系统</summary>
@@ -110,7 +109,6 @@
 
 </details>
 
-### 🔄 DevOps & 工具链 | DevOps & Toolchain
 
 <details>
   <summary>开发自运维</summary>
