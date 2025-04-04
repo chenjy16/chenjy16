@@ -68,7 +68,12 @@ I am a passionate software architect specializing in cloud-native technologies, 
   FinOps (Cloud resource analysis and cost optimization)
 
 
+---
 
-<a href="https://github.com/chenjy16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjy16&layout=compact&hide=html,css&theme=radical" />
-</a>
+### 📈 我的 GitHub 技术语言统计
+
+<div align="center">
+  <a href="https://github.com/chenjy16">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjy16&layout=compact&hide=html,css&theme=default" />
+  </a>
+</div>
