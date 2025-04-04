@@ -1,59 +1,26 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=1200&lines=Building+reliable%2C+scalable+systems+that+create+business+value+through+technology." />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=1200&lines=Building+reliable%2C+scalable+systems+that+create+business+value+through+technology." />
+  <p>
+    <a href="#chinese">中文</a> | 
+    <a href="#english">English</a>
+  </p>
 </div>
 
-## 🚀 关于我 | About Me
+<a name="chinese"></a>
+# 🚀 关于我
 
-<details>
-  <summary>简介</summary>
-  
-  我是一名充满热情的软件架构师，专注于云原生技术、分布式系统设计和DevOps实践。  
+我是一名充满热情的软件架构师，专注于云原生技术、分布式系统设计和DevOps实践。
 
-</details>
+## 🛠️ 技术栈
 
-<details>
-  <summary>Introduction</summary>
-
-  I am a passionate software architect specializing in cloud-native technologies, distributed system design, and DevOps practices.
-
-</details>
-
-## 🛠️ 技术栈 | Tech Stack
-
-<details>
-  <summary>技术栈</summary>
-
-### 💻 编程语言 | Programming Languages
-
+### 💻 编程语言
 - ☕ Java技术栈，拥有扎实的编码实践  
 - <img src="https://golang.org/doc/gopher/frontpage.png" width="15"> Golang技术栈，包括Gin、Gorm、Grpc-go和Motan-go等框架  
 
-### 🔄 中间件 | Middleware
-
+### 🔄 中间件
 - 🔍 熟悉多种中间件源码，如Dubbo、RocketMQ和Sharding-sphere  
 
-</details>
-
-<details>
-  <summary>Tech Stack</summary>
-
-### 💻 Programming Languages
-
-- ☕ Java technology stack with solid coding practices
-- <img src="https://golang.org/doc/gopher/frontpage.png" width="15"> Golang technology stack, including frameworks such as Gin, Gorm, Grpc-go, and Motan-go
-
-### 🔄 Middleware
-
-- 🔍 Familiar with various middleware source code, such as Dubbo, RocketMQ, and Sharding-sphere
-
-</details>
-
-
-<details>
-  <summary>云原生</summary>
-
+### ☁️ 云原生
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -65,11 +32,33 @@
   - 📊 可观测性
   - 📈 扩展性等
 
-</details>
+### 🌐 分布式系统
+- 🏗️ 分布式系统架构设计  
+- 🔄 数据库水平扩展  
+- 🔄 分布式事务  
+- 🌍 全球化部署  
 
-<details>
-  <summary>Cloud Native</summary>
+### 🔄 开发自运维
+- 🔄 GitOps技术栈（Gitlab/ArgoCD等）  
+- 🛠️ 从零搭建CICD平台的实践经验  
 
+---
+
+<a name="english"></a>
+# 🚀 About Me
+
+I am a passionate software architect specializing in cloud-native technologies, distributed system design, and DevOps practices.
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- ☕ Java technology stack with solid coding practices
+- <img src="https://golang.org/doc/gopher/frontpage.png" width="15"> Golang technology stack, including frameworks such as Gin, Gorm, Grpc-go, and Motan-go
+
+### 🔄 Middleware
+- 🔍 Familiar with various middleware source code, such as Dubbo, RocketMQ, and Sharding-sphere
+
+### ☁️ Cloud Native
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -81,56 +70,19 @@
   - 📊 Observability
   - 📈 Scalability, etc.
 
-</details>
-
-
-
-<details>
-  <summary>分布式系统</summary>
-
-- 🏗️ 分布式系统架构设计  
-
-- 🔄 数据库水平扩展  
-
-- 🔄 分布式事务  
-
-- 🌍 全球化部署  
-
-
-</details>
-
-<details>
-  <summary>Distributed Systems</summary>
-
+### 🌐 Distributed Systems
 - 🏗️ Distributed system architecture design
 - 🔄 Database horizontal scaling
 - 🔄 Distributed transactions
 - 🌍 Global deployment
 
-</details>
-
-
-<details>
-  <summary>开发自运维</summary>
-
-- 🔄 GitOps技术栈（Gitlab/ArgoCD等）  
-- 🛠️ 从零搭建CICD平台的实践经验  
-
-
-</details>
-
-<details>
-  <summary>DevOps</summary>
-
+### 🔄 DevOps
 - 🔄 GitOps technology stack (Gitlab/ArgoCD, etc.)
 - 🛠️ Experience in building CICD platforms from scratch
 
-</details>
-
-
 ---
 
-### 📈 我的 GitHub 技术语言统计
+### 📈 GitHub 技术语言统计 | GitHub Language Stats
 
 <div align="center">
   <a href="https://github.com/chenjy16">
