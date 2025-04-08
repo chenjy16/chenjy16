@@ -1,5 +1,7 @@
 <div align="center">
-  [![HitCount](https://hits.dwyl.com/chenjy16/chenjy16.svg?style=for-the-badge&heart=1)](https://hits.dwyl.com/chenjy16/chenjy16)
+  <a href="https://hits.dwyl.com/chenjy16/chenjy16">
+    <img src="https://hits.dwyl.com/chenjy16/chenjy16.svg?style=for-the-badge&heart=1" alt="HitCount">
+  </a>
 </div>
 
 # 🚀 About Me
@@ -16,8 +18,6 @@ I am a passionate software architect specializing in cloud-native technologies, 
 - 🐹 3+ years Golang experience in high-performance systems
 
 ### 🔄 Middleware
-[![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apache-rocketmq&logoColor=white)]()
-[![Dubbo](https://img.shields.io/badge/Dubbo-FF6A00?style=for-the-badge&logo=apache&logoColor=white)]()
 
 - Contributed to Apache ShardingSphere core module
 - Optimized RocketMQ cluster performance by 40%
@@ -33,8 +33,6 @@ I am a passionate software architect specializing in cloud-native technologies, 
 - Built auto-scaling system with custom metrics
 
 ### 🌐 Distributed Systems
-[![TiDB](https://img.shields.io/badge/TiDB-FF6A00?style=for-the-badge&logo=TiDB&logoColor=white)]()
-[![Seata](https://img.shields.io/badge/Seata-3EAAAF?style=for-the-badge)]()
 
 **Key Achievements**:
 - Led distributed transaction solution for financial system (TPS 50k+)
@@ -42,8 +40,6 @@ I am a passionate software architect specializing in cloud-native technologies, 
 - Reduced database latency by 60% through sharding
 
 ### 🔄 DevOps
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white)]()
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
 
 **Implementation**:
 - Built GitOps pipeline handling 100+ daily deployments
