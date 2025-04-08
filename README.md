@@ -1,5 +1,5 @@
 <div align="center">
-![访问量统计](https://profile-counter.glitch.me/chenjy16/count.svg)
+![访问量统计](https://hits.dwyl.com/chenjy16/chenjy16.svg)
 </div>
 
 # 🚀 About Me
