@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=1200&lines=Building+reliable%2C+scalable+systems+that+create+business+value+through+technology." />
   
- [![HitCount](https://hits.dwyl.com/chenjy16/chenjy16.svg?style=for-the-badge&heart=1)](https://hits.dwyl.com/chenjy16/chenjy16)
+  [![HitCount](https://hits.dwyl.com/chenjy16/chenjy16.svg?style=for-the-badge&heart=1)](https://hits.dwyl.com/chenjy16/chenjy16)
 </div>
 
 # 🚀 About Me
@@ -11,32 +11,43 @@ I am a passionate software architect specializing in cloud-native technologies, 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- ☕ Java technology stack with solid coding practices
-- <img src="https://golang.org/doc/gopher/frontpage.png" width="15"> Golang technology stack, including frameworks such as Gin, Gorm, Grpc-go, and Motan-go
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+
+- ☕ 10+ years Java experience with Spring ecosystem
+- 🐹 3+ years Golang experience in high-performance systems
 
 ### 🔄 Middleware
-- 🔍 Familiar with various middleware source code, such as Dubbo, RocketMQ, and Sharding-sphere
+[![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apache-rocketmq&logoColor=white)]()
+[![Dubbo](https://img.shields.io/badge/Dubbo-FF6A00?style=for-the-badge&logo=apache&logoColor=white)]()
+
+- Contributed to Apache ShardingSphere core module
+- Optimized RocketMQ cluster performance by 40%
 
 ### ☁️ Cloud Native
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)]()
 
-- 🌟 Rich experience in cloud-native architecture practices
-- 🔧 Implementation of highly available, high-performance, and elastic cloud-native systems based on Kubernetes
-  - 📦 Resource definition
-  - 🔍 Service discovery
-  - ⚙️ Configuration center
-  - 📊 Observability
-  - 📈 Scalability, etc.
+**Architecture Practices**:
+- Designed 10k+ pods management system
+- Implemented service mesh for 50+ microservices
+- Built auto-scaling system with custom metrics
 
 ### 🌐 Distributed Systems
-- 🏗️ Distributed system architecture design
-- 🔄 Database horizontal scaling
-- 🔄 Distributed transactions
-- 🌍 Global deployment
+[![TiDB](https://img.shields.io/badge/TiDB-FF6A00?style=for-the-badge&logo=TiDB&logoColor=white)]()
+[![Seata](https://img.shields.io/badge/Seata-3EAAAF?style=for-the-badge)]()
+
+**Key Achievements**:
+- Led distributed transaction solution for financial system (TPS 50k+)
+- Designed global deployment architecture across 3 regions
+- Reduced database latency by 60% through sharding
 
 ### 🔄 DevOps
-- 🔄 GitOps technology stack (Gitlab/ArgoCD, etc.)
-- 🛠️ Experience in building CICD platforms from scratch
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
 
-
+**Implementation**:
+- Built GitOps pipeline handling 100+ daily deployments
+- Created unified CICD platform for 200+ developers
+- Reduced deployment time from 30min to 2min
