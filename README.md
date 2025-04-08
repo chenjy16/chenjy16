@@ -1,6 +1,6 @@
-<div align="center">
-![访问量统计](https://hits.dwyl.com/chenjy16/chenjy16.svg)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chenjy16&color=green" alt="访问量统计">
+</p>
 
 # 🚀 About Me
 
