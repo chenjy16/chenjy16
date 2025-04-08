@@ -7,6 +7,7 @@
 I am a passionate software architect specializing in cloud-native technologies, distributed system design, and DevOps practices.
 
 
-# TrendShift
-[![TrendShift](https://trendshift.io/api/badge/repositories/chenjy16)](https://trendshift.io/users/chenjy16)
+# Trend
+
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=chenjy16&show_icons=true&theme=radical)](https://github.com/chenjy16)
 
