@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=1200&lines=Building+reliable%2C+scalable+systems+that+create+business+value+through+technology." />
-
+  <img src="https://readme-typing-svg..." />
+  
+ [![HitCount](https://hits.dwyl.com/chenjy16/chenjy16.svg?style=for-the-badge&heart=1)](https://hits.dwyl.com/chenjy16/chenjy16)
 </div>
 
 # 🚀 About Me
