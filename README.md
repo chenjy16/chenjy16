@@ -1,5 +1,5 @@
 <div align="center">
-![访问量统计](https://komarev.com/ghpvc/?username=chenjy16&color=green)
+![访问量统计](https://profile-counter.glitch.me/chenjy16/count.svg)
 </div>
 
 # 🚀 About Me
